@@ -18,7 +18,7 @@ const styles = StyleSheet.create({
     marginRight: 20,
     marginBottom: 10
   }
-});
+}); asdasdasd
 
 export default class App extends React.Component {
   state = initialState;
