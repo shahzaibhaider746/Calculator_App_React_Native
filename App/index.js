@@ -28,7 +28,6 @@ export default class App extends React.Component {
   };
 
   render() {
-    asddasdasd
     return (
       <View style={styles.container}>
         <StatusBar barStyle="light-content" />
