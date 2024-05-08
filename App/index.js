@@ -40,7 +40,7 @@ export default class App extends React.Component {
               text="C"
               theme="secondary"
               onPress={() => this.handleTap("clear")}
-            />
+            />sdfsfsdf
             <Button
               text="+/-"
               theme="secondary"
