@@ -36,7 +36,7 @@ const styles = StyleSheet.create({
 });
 
 export default ({ onPress, text, size, theme }) => {
-  const buttonStyles = [styles.button];
+  const buttonStyles = [styles.button]; sad
   const textStyles = [styles.text];
 
   if (size === "double") {
