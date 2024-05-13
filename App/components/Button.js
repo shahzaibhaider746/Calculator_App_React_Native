@@ -49,7 +49,7 @@ export default ({ onPress, text, size, theme }) => {
   } else if (theme === "accent") {
     buttonStyles.push(styles.buttonAccent);
   }
-
+  asdad
   return (
     <TouchableOpacity onPress={onPress} style={buttonStyles}>
       <Text style={textStyles}>{text}</Text>
