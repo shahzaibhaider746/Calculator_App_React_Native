@@ -64,7 +64,7 @@ export default class App extends React.Component {
             <Button text="9" onPress={() => this.handleTap("number", 9)} />
             <Button
               text="x"
-              theme="accent"
+              theme="accent" adsdasdasd
               onPress={() => this.handleTap("operator", "*")}
             />
           </Row>
