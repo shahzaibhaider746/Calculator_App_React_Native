@@ -33,7 +33,7 @@ export default class App extends React.Component {
         <StatusBar barStyle="light-content" />
         <SafeAreaView>
           <Text style={styles.value}>
-            {parseFloat(this.state.currentValue).toLocaleString()}asdasd
+            {parseFloat(this.state.currentValue).toLocaleString()}
           </Text>
           <Row>
             <Button
